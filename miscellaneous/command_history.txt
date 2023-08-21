@@ -1,0 +1,988 @@
+   25  nano .ssh/config
+   26  ssh mlops-zoomcamp
+   27  ssh mlops-zoomcamp
+   28  nano .ssh/config
+   29  ssh mlops-zoomcamp
+   30  ssh mlops-zoomcamp
+   31  ssh mlops-zoomcamp
+   32  nano .ssh/config
+   33  ssh mlops-zoomcamp
+   34  lsof -1:5000
+   35  lsof -1 :5000
+   36  lsof -1 :5000
+   37  nano .ssh/config
+   38  ssh mlops-zoomcamp
+   39  lsof -i :5000
+   40  ssh mlops-zoomcamp
+   41  ssh mlops-zoomcamp
+   42  prefect orion start
+   43  ssh mlops-zoomcamp
+   44  ssh mlops-zoomcamp
+   45  ssh mlops-zoomcamp
+   46  ssh mlops-zoomcamp
+   47  ssh mlops-zoomcamp
+   48  nano .ssh/config
+   49  ssh mlops-zoomcamp
+   50  ssh mlops-zoomcamp
+   51  ssh mlops-zoomcamp
+   52  ssh mlops-zoomcamp
+   53  nano .ssh/config
+   54  ssh mlops-zoomcamp
+   55  nano .ssh/config
+   56  ssh mlops-zoomcamp
+   57  ssh mlops-zoomcamp
+   58  pipenv shell
+   59  ssh mlops-zoomcamp
+   60  ssh mlops-zoomcamp
+   61  clear
+   62  ssh mlops-zoomcamp
+   63  ssh mlops-zoomcamp
+   64  ssh mlops-zoomcamp
+   65  ssh mlops-zoomcamp
+   66  ssh mlops-zoomcamp
+   67  ssh mlops-zoomcamp
+   68  ssh mlops-zoomcamp
+   69  ssh mlops-zoomcamp
+   70  ssh mlops-zoomcamp
+   71  ssh mlops-zoomcamp
+   72  ssh mlops-zoomcamp
+   73  ssh mlops-zoomcamp
+   74  lsof -i:4200
+   75  kill 59797
+   76  lsof -i:4200
+   77  ssh mlops-zoomcamp
+   78  ssh mlops-zoomcamp
+   79  ssh mlops-zoomcamp
+   80  ssh mlops-zoomcamp
+   81  ssh mlops-zoomcamp
+   82  ssh mlops-zoomcamp
+   83  ssh mlops-zoomcamp
+   84  nano .ssh/config
+   85  ssh mlops-zoomcamp
+   86  ssh mlops-zoomcamp
+   87  ssh mlops-zoomcamp
+   88  ssh mlops-zoomcamp
+   89  ssh mlops-zoomcamp
+   90  ssh mlops-zoomcamp
+   91  ssh mlops-zoomcamp
+   92  ssh mlops-zoomcamp
+   93  ssh mlops-zoomcamp
+   94  ssh mlops-zoomcamp
+   95  ssh mlops-zoomcamp
+   96  lsof -i:4200
+   97  ssh mlops-zoomcamp
+   98  ssh mlops-zoomcamp
+   99  lsof -i:4200
+  100  lsof -i:4200
+  101  kill 2891
+  102  lsof -i:4200
+  103  ssh mlops-zoomcamp
+  104  lsof -i:4200
+  105  kill 12688
+  106  lsof -i:4200
+  107  ssh mlops-zoomcamp
+  108  ssh mlops-zoomcamp
+  109  git --version
+  110  ssh mlops-zoomcamp
+  111  ssh mlops-zoomcamp
+  112  ssh mlops-zoomcamp
+  113  ssh mlops-zoomcamp
+  114  ssh mlops-zoomcamp
+  115  ssh mlops-zoomcamp
+  116  ssh mlops-zoomcamp
+  117  ssh mlops-zoomcamp
+  118  conda activate base
+  119  cd ..
+  120  ls
+  121  cd Downloads
+  122  ls
+  123  cp pandas-workout-data ~/pandas\ workout
+  124  cp -r pandas-workout-data ~/pandas\ workout
+  125  cd ..
+  126  cd pandas\ workout
+  127  ls
+  128  ls
+  129  ls
+  130  git init
+  131  git --help
+  132  git init
+  133  git remote add origin git@github.com:idh71/pandas-workout.git
+  134  git branch -M main
+  135  git add .
+  136  git add .
+  137  git status
+  138  git add -A
+  139  git status
+  140  git push -u origin main
+  141  git push -u origin main
+  142  git commit -m "Initial commit"
+  143  git push -u origin main
+  144  git push -u origin main
+  145  git status
+  146  git push -u origin main
+  147  git rm --cached -r pandas-workout-data/
+  148  git status
+  149  git add .
+  150  git status
+  151  git add .
+  152  git commit -m "added git ignore"
+  153  git push -u origin main
+  154  git rm --cached -r .ipynb_checkpoints/
+  155  git status
+  156  git add .
+  157  git commit -m "modified gitignore"
+  158  git push -u origin main
+  159  rm -rf .git
+  160  ls
+  161  git init
+  162  git status
+  163  git add .
+  164  git commit -m "initial commit"
+  165  git remote add origin git@github.com:idh71/pandas-workout.git
+  166  git branch -M main
+  167  git push -u origin main
+  168  python Excercise_14.py
+  169  python Excercise_14.py
+  170  python Excercise_14.py
+  171  python Excercise_14.py
+  172  git status
+  173  git add .
+  174  git commit -m "added 14 and 14 bte"
+  175  git push
+  176  conda activate base
+  177  git add .
+  178  git commit -m "added some files"
+  179  git remote add origin git@github.com:idh71/testa.git
+  180  git push -u origin main
+  181  git add .
+  182  git commit -m "another change"
+  183  git push
+  184  git status
+  185  git add .
+  186  git commit -m "excercise 15"
+  187  git push
+  188  git add .
+  189  git commit -m "excercise 15"
+  190  git push
+  191  git add .
+  192  git commit -m "excercise 15"
+  193  git push
+  194  touch Excercise_15_bte.ipynb
+  195  git add .
+  196  git commit -m "excercise 15bte"
+  197  git push
+  198  touch Excercise_16.ipynb
+  199  git status
+  200  git add .
+  201  git status
+  202  touch Excercise_17.ipynb
+  203  git status
+  204  git add .
+  205  git commit -m "excercise 17"
+  206  git push
+  207  xcode-select --install
+  208  mkdir test_directory
+  209  cd test_directory
+  210  git init
+  211  cd ..
+  212  ssh mlops-zoomcamp
+  213  lsof -i:4200
+  214  lsof -i:9696
+  215  cd pandas\ workout
+  216  ssh mlops-zoomcamp
+  217  lsof -i:5000
+  218  kill 703
+  219  lsof -i:4200
+  220  kill 10539
+  221  lsof -i:4200
+  222  lsof -i:9696
+  223  lsof -i:5000
+  224  kill 11488
+  225  cd ~
+  226  ssh mlops-zoomcamp
+  227  lsof -i:5000
+  228  kill 2322
+  229  lsof -i:5000
+  230  kill 11514
+  231  lsof -i:5000
+  232  kill 11634
+  233  lsof -i:5000
+  234  kill 12205
+  235  lsof -i:5000
+  236  kill 12213
+  237  lsof -i:5000
+  238  ssh mlops-zoomcamp
+  239  ssh mlops-zoomcamp
+  240  lsof -i:4200
+  241  kill 2426
+  242  ssh mlops-zoomcamp
+  243  lsof -i:4200
+  244  kill 3630
+  245  lsof -i:4200
+  246  ssh mlops-zoomcamp
+  247  lsof -i:4200
+  248  lsof -i:5000
+  249  kill 12218
+  250  lsof -i:5000
+  251  kill 12233
+  252  lsof -i:5000
+  253  lsof -i:5000
+  254  kill 12241
+  255  lsof -i:5000
+  256  ssh mlops-zoomcamp
+  257  lsof-i:5000
+  258  lsof -i:5000
+  259  kill 12381
+  260  kill 12282
+  261  lsof -i:5000
+  262  lsof -i:5000
+  263  conda activate base
+  264  conda activate langchain-env
+  265  export OPENAI_API_KEY=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
+  266  export OPENAI_API_KEY="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"
+  267  echo $OPENAI_API_KEY
+  268  pwd
+  269  ls
+  270  pip install python-dotenv
+  271  pip install openai
+  272  pip install deeplake
+  273  pip install deeplake
+  274  python --version
+  275  conda install python=3.9
+  276  conda deactivate
+  277  conda activate langchain-env
+  278  pip list
+  279  cona list
+  280  conda list
+  281  pip install langchain
+  282  pip install python-dotenv
+  283  pip install openai
+  284  pip install deeplake
+  285  pip install deeplake
+  286  conda deactivate
+  287  conda create --langchain-2 python=3.7.6
+  288  conda create --name langchain-2 python=3.7.6
+  289  conda activate langchain-2
+  290  conda activate langchain-2
+  291  conda activate base
+  292  conda env list
+  293  conda create --name langchain-2-env python=3.7.6
+  294  conda activate langchain-2-env
+  295  conda env list
+  296  conda activate langchain-env
+  297  python --version
+  298  ssh mlops-zoomcamp
+  299  ssh mlops-zoomcamp
+  300  ssh mlops-zoomcamp
+  301  ssh mlops-zoomcamp
+  302  ssh mlops-zoomcamp
+  303  ssh mlops-zoomcamp
+  304  ssh mlops-zoomcamp
+  305  ssh mlops-zoomcamp
+  306  ssh mlops-zoomcamp
+  307  ssh mlops-zoomcamp
+  308  ssh mlops-zoomcamp
+  309  ssh mlops-zoomcamp
+  310  ssh mlops-zoomcamp
+  311  ssh mlops-zoomcamp
+  312  ssh mlops-zoomcamp
+  313  ssh mlops-zoomcamp
+  314  ssh mlops-zoomcamp
+  315  ssh mlops-zoomcamp
+  316  ssh mlops-zoomcamp
+  317  ssh mlops-zoomcamp
+  318  lsof -i:9696
+  319  ssh mlops-zoomcamp
+  320  ssh mlops-zoomcamp
+  321  lsof -i:5000
+  322  lsof -i:5000
+  323  kill 646
+  324  lsof -i:5000
+  325  lsof -i :5000
+  326  ps -ef | grep ControlCe
+  327  ssh mlops-zoomcamp
+  328  ssh mlops-zoomcamp
+  329  ssh mlops-zoomcamp
+  330  ssh mlops-zoomcamp
+  331  ssh mlops-zoomcamp
+  332  ssh mlops-zoomcamp
+  333  ssh mlops-zoomcamp
+  334  ssh mlops
+  335  ssh mlops-zoomcamp
+  336  ssh mlops-zoomcamp
+  337  nano .ssh_config
+  338  nano ./ssh_config
+  339  nano .ssh/config
+  340  ssh mlops-zoomcamp
+  341  ssh mlops-zoomcamp
+  342  ssh mlops-zoomcamp
+  343  ssh mlops-zoomcamp
+  344  ssh mlops-zoomcamp
+  345  ssh mlops-zoomcamp
+  346  conda create -n langchain-env
+  347  conda activate langchain-env
+  348  pip istall langchain
+  349  conda install pip
+  350  pip install langchain
+  351  mkdir langchain-course
+  352  cd langchain-course
+  353  ls
+  354  export OPENAI_API_KEY="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"
+  355  git clone https://github.com/DataTalksClub/mlops-zoomcamp.git
+  356  git clone --name new-mlops
+  357  git clone https://github.com/DataTalksClub/mlops-zoomcamp.git -n  new-mlops
+  358  cd new-mlops
+  359  ls
+  360  git clone https://github.com/DataTalksClub/mlops-zoomcamp.git
+  361  ls
+  362  cd mlops-zoomcamp
+  363  ls
+  364  ssh mlops-zoomcamp
+  365  docker ps
+  366  docker ps -a
+  367  docker images
+  368  cd new-mlops
+  369  ls
+  370  cd mlops-zoomcamp
+  371  pwd
+  372  ls
+  373  cd 05-monitoring
+  374  ls
+  375  docker-compose up --build
+  376  docker-compose up --build
+  377  ssh mlops-zoomcamp
+  378  sudo apt install docke.io
+  379  history -n 50
+  380  cd ~/.prefect
+  381  ls
+  382  open
+  383  open .
+  384  cd ~
+  385  ls
+  386  conda activate py11
+  387  pip show prefect
+  388  cd /Users/isaachurwitz/opt/anaconda3/envs/py11/lib/python3.11/site-packages
+  389  ls
+  390  cd prefect
+  391  ls
+  392  open ,
+  393  open .
+  394  pwd
+  395  find /Users/isaachurwitz/opt/anaconda3/envs/py11/lib/python3.11/site-packages/prefec -name "prefect.db"
+  396  cd ~
+  397  cd -
+  398  cd -
+  399  cd  mlops
+  400  ls
+  401  cd 05-monitoring
+  402  prefect server start
+  403  prefect db reset
+  404  airflow db reset
+  405  find /Users/isaachurwitz/opt/anaconda3/envs/py11/lib/python3.11/site-packages/prefect -name "prefect.db"
+  406  find /Users/isaachurwitz/opt/anaconda3/envs/py11/lib/python3.11/site-packages/prefect -name "prefect.db"
+  407  find /Users/isaachurwitz/opt/anaconda3/envs/py11/lib/python3.11/site-packages/prefect -name "*.db"
+  408  prefect server --help
+  409  prefect server database
+  410  prefect server database reset
+  411  prefect server start
+  412  prefect server start
+  413  ls | grep mlops-zoomcamp
+  414  mv mlops-zoomcamp mlops-zoomcamp-old
+  415  ls | grep mlops-zoomcamp
+  416  git clone https://github.com/DataTalksClub/mlops-zoomcamp.git
+  417  mv mlops-zoomcamp mlops
+  418  ls | grep mlops-zoomcamp
+  419  ls | grep mlops
+  420  ls mlops
+  421  cd mlops
+  422  git status
+  423  git remote add origin git@github.com:idh71/mlops-zoomcamp.git
+  424  git remote add my-remote-repo git@github.com:idh71/mlops-zoomcamp.git
+  425  git push -u my-remote-repo main
+  426  git remote show origin
+  427  git status
+  428  git remote set-url --push origin https://github.com/idh71/mlops-zoomcamp.git
+  429  git remote show origin
+  430  history -n 50
+  431  ls
+  432  cd 05-monitoring
+  433  ls
+  434  git status
+  435  get checkout -b working
+  436  git checkout -b working
+  437  docker-compose up --build
+  438  docker-compose up --build
+  439  docker ps
+  440  docker-compose up --build
+  441  docker ps
+  442  docker-compose up 
+  443  docker-compose up --build
+  444  prefect
+  445  conda activate py11
+  446  prefect
+  447  prefect server start
+  448  prefect profile ls
+  449  prefect cloud login -k pnu_6qtNIN4Z5uhLwWhX04GG2HMHt5RWpm0Ebtxm
+  450  docker-compose up --build
+  451  conda activate base
+  452  conda activate py11
+  453  cd 05-monitoring
+  454  git status
+  455  docker images
+  456  docker images
+  457  docker ps
+  458  conda activate py11
+  459  docker-compose down
+  460  docker ps
+  461  jupyter notebook
+  462  docker ps
+  463  python dummy_metrics_calculation.py
+  464  python dummy_metrics_calculation.py
+  465  python evidently_metrics_calculation.py
+  466  python evidently_metrics_calculation.py
+  467  python evidently_metrics_calculation.py
+  468  prefect server start
+  469  prefect server start
+  470  python evidently_metrics_calculation.py
+  471  dockerf-compose up
+  472  docker-compose up
+  473  docker-compose up
+  474  ls
+  475  mkdir taxi_monitoring
+  476  cd taxi_monitoring
+  477  clear
+  478  conda create -n py11 python=3.11
+  479  conda activate py11
+  480  ls
+  481  pip install -r requirements.txt
+  482  mkdior config
+  483  mkdir config
+  484  mv docker-compose.yml config
+  485  docker compose up --build
+  486  docker-compose up --build
+  487  mv requirements.txt config
+  488  docker-compose up --build
+  489  docker-compose up --build
+  490  docker-compose up --build
+  491  conda activate py11
+  492  python evidently_metrics_calculation.py
+  493  prefect server start
+  494  ls
+  495  python evidently_metrics_calculation.py
+  496  python evidently_metrics_calculation.py
+  497  python evidently_metrics_calculation.py
+  498  git add .
+  499  git commit -m "no changes really"
+  500  git push
+  501  git push --set-upstream origin working
+  502  git checkout main
+  503  git checkout -b homework-5
+  504  conda activate py11
+  505  python evidently_metrics_calculation.py
+  506  docker-compose down
+  507  python evidently_metrics_calculation.py
+  508  python evidently_metrics_calculation.py
+  509  python evidently_metrics_calculation.py
+  510  python evidently_metrics_calculation.py
+  511  python evidently_metrics_calculation.py
+  512  python evidently_metrics_calculation.py
+  513  python evidently_metrics_calculation.py
+  514  python evidently_metrics_calculation.py
+  515  python evidently_metrics_calculation.py
+  516  python evidently_metrics_calculation.py
+  517  python evidently_metrics_calculation.py
+  518  python evidently_metrics_calculation.py
+  519  python evidently_metrics_calculation.py
+  520  python evidently_metrics_calculation.py
+  521  python evidently_metrics_calculation.py
+  522  python evidently_metrics_calculation.py
+  523  python evidently_metrics_calculation.py
+  524  python evidently_metrics_calculation.py
+  525  python evidently_metrics_calculation.py
+  526  git status
+  527  git add .
+  528  git commit -m "changes"
+  529  git push
+  530  git push --set-upstream origin homework-5
+  531  git config --global user.name "idh71"
+  532  git config --global user.email "idhurwitz7@gmail.com"
+  533  git push --set-upstream origin homework-5
+  534  git push --set-upstream origin homework-5
+  535  ssh-keygen -t rsa -b 4096 -C "idhurwitz7@gmail.com"
+  536  eval "$(ssh-agent -s)"
+  537  ssh-add ~/.ssh/id_rsa
+  538  cat ~/.ssh/id_rsa.pub
+  539  git remote set-url origin git@github.com:idh71/mlops-zoomcamp.git
+  540  git push --set-upstream origin homework-5
+  541  git push --set-upstream origin homework-5
+  542  git remote -v
+  543  git status
+  544  git push
+  545  git push --set-upstream origin homework-5
+  546  cat ~/.ssh/id_rsa.pub
+  547  ssh-add -l
+  548  git remote -v
+  549  git remote set-url origin git@github.com:idh71/mlops-zoomcamp.git
+  550  git remote -v
+  551  git config --global --get credential.helper
+  552  git config --global --unset credential.helper
+  553  git push
+  554  git push --set-upstream origin homework-5
+  555  git remote -v
+  556  git remote -v
+  557  git push
+  558  git push --set-upstream origin homework-5
+  559  git remote set-url origin git@github.com:idh71/mlops-zoomcamp.git
+  560  git push --set-upstream origin homework-5
+  561  cd ..
+  562  cd 05-monitoring
+  563  conda activate py11
+  564  git status
+  565  cd data
+  566  wget https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-03.parquet
+  567  cd ..
+  568  docker-compose up
+  569  docker-compose up --build
+  570  ls
+  571  docker-compose up --build
+  572  lsof -i:5432
+  573  kill 3472
+  574  docker ps
+  575  docker down
+  576  docker-compose down
+  577  docker-compose up --build
+  578  docker-compose up --build
+  579  docker-compose up
+  580  docker images
+  581  brew upgrade git
+  582  cd mlops
+  583  cd 05-monitoring
+  584  git status
+  585  git push
+  586  git push --set-upstream origin homework-5
+  587  git push --set-upstream origin homework-5
+  588  git push --set-upstream origin homework-5
+  589  git push --set-upstream origin homework-5
+  590  git push --set-upstream origin homework-5
+  591  git status
+  592  git status
+  593  git add .
+  594  git commit -m "change"
+  595  git push
+  596  nano ~/.ssh/config
+  597  cat ~/.ssh/id_ed25519
+  598  cat ~/.ssh/id_ed25519.pub
+  599  ssh -T git@github.com
+  600  mkdir personal-test
+  601  cd personal-test
+  602  git clone git@github.com:DataTalksClub/project-of-the-week.git
+  603  ls
+  604  cd project-of-the-week
+  605  ls
+  606  cd ..
+  607  rm -rf project-of-the-week
+  608  git clone git@github.com:idh71/project-of-the-week.git
+  609  cd project-of-the-week
+  610  ls
+  611  pwd
+  612  git status
+  613  git add .
+  614  git gommit -m "changes"
+  615  git commit -m "change"
+  616  git push
+  617  cd ..
+  618  cd ..
+  619  rm -rf personal-test
+  620   . /Users/isaachurwitz/.local/share/virtualenvs/code-dfDY-B4u/bin/activate
+  621  pipenv install --dev pytest
+  622  exit
+  623   . /Users/isaachurwitz/.local/share/virtualenvs/mlops-0YWUG6Ri/bin/activate
+  624  exit
+  625  conda activate base
+  626  /Users/isaachurwitz/opt/anaconda3/bin/python /Users/isaachurwitz/mlops/06-mine/code/lambda_function.py
+  627  /Users/isaachurwitz/opt/anaconda3/bin/python /Users/isaachurwitz/mlops/06-mine/code/lambda_function.py
+  628  python --where
+  629  python -where
+  630  python where
+  631  python --version
+  632  which pytest
+  633  pipenv shell
+  634  pipenv --rm
+  635  cd code
+  636  pwd
+  637   pipenv install
+  638   pipenv install
+  639  mkdir tests
+  640  pipenv shell
+  641  pipenv shell
+  642   . /Users/isaachurwitz/.local/share/virtualenvs/code-dfDY-B4u/bin/activate
+  643  which pytest
+  644  pwd
+  645  source /Users/isaachurwitz/.local/share/virtualenvs/code-dfDY-B4u/bin/activate
+  646  which pytest
+  647  which python
+  648  cd code
+  649  source /Users/isaachurwitz/.local/share/virtualenvs/code-dfDY-B4u/bin/activate
+  650  cd code
+  651  pipenv shell
+  652  source /Users/isaachurwitz/.local/share/virtualenvs/code-dfDY-B4u/bin/activate
+  653  pytest
+  654  pytest
+  655   . /Users/isaachurwitz/.local/share/virtualenvs/code-dfDY-B4u/bin/activate
+  656  pytest
+  657  cd tests
+  658  pytest
+  659  conda activate base
+  660  git status
+  661  git add .
+  662  git push
+  663  git commit -m "asd"
+  664  git push
+  665  git push --set-upstream origin week-6
+  666  pipenv --help
+  667  cd cohorts/2023/06-best-practices/homework
+  668  pipenv install
+  669  conda env list
+  670  conda create --help
+  671  conda create -n py10 python=3.10
+  672  conda activate py10
+  673  python --version
+  674  pipenv install
+  675  conda install pipenv
+  676  pipenv install
+  677  pipenv shell
+  678   . /Users/isaachurwitz/.local/share/virtualenvs/homework-mpJZCfne/bin/activate
+  679  python batch.py 2022 2
+  680  python batch.py 2022 2
+  681  python batch.py 2022 2
+  682  mkdir output
+  683  mkdir output
+  684  mkdir output
+  685  python batch.py 2022 2
+  686  mkdir tests
+  687  pipenv install --dev pytest
+  688  python tests/test_batch.py
+  689  python tests/test_batch.py
+  690  python tests/test_batch.py
+  691  python tests/test_batch.py
+  692  python tests/test_batch.py
+  693  python tests/test_batch.py
+  694  python batch.py 2022 2
+  695  pytest tests
+  696  pytest tests
+  697  clear
+  698  pytest tests
+  699  pytest tests
+  700  clear
+  701  pytest tests
+  702  clear
+  703  echo "hello------"
+  704  pytest tests
+  705  cd mlops
+  706  git status
+  707  git status
+  708  git add .
+  709  git commit -m "minor  change"
+  710  git push
+  711  clear
+  712  git status
+  713  git checkout main
+  714  git origin
+  715  git --help
+  716  git remote -v
+  717  git remote set-url origin git@github.com:DataTalksClub/mlops-zoomcamp.git
+  718  git status
+  719  git remote -v
+  720  git status
+  721  git pull
+  722  git checkout homework-5
+  723  git status
+  724  git add .
+  725  git commit -m "arbitrary  change"
+  726  git push
+  727  nano ~/.ssh/config
+  728  git pull
+  729  git status
+  730  git reflog
+  731  git status
+  732  git reset --hard f9ad3ef
+  733  git status
+  734  git checkout main
+  735  git remote -v
+  736  git branch --show-current
+  737  git fetch origin
+  738  git merge origin/main
+  739  git branch --show-current
+  740  git status
+  741  get checkout -b week-6
+  742  git checkout -b week-6
+  743  pwd
+  744  mkdir 06-mine
+  745  cp -r 04-deployment/streaming 06-mine/code
+  746  pip install pipenv
+  747  pipenv install
+  748  pipenv --rm
+  749  rm -rf 06-mine
+  750  mkdir 06-mine
+  751  cp -r  04-deployment/streaming 06-mine
+  752  cd 06-mine
+  753  cd ..
+  754  rm -rf 06-mine
+  755  cp -r  04-deployment/streaming 06-mine/code
+  756  mkdir 06-mine
+  757  cp -r  04-deployment/streaming 06-mine/code
+  758  cd 06-mine/code
+  759  pipenv install
+  760  pipenv shell
+  761   . /Users/isaachurwitz/.local/share/virtualenvs/code-dfDY-B4u/bin/activate
+  762  pipenv --dev pytest
+  763  pipenv install --dev pytest
+  764  mkdir tests
+  765  rm -rf .vscode
+  766  pytest
+  767  cd tests
+  768  pytest
+  769  cd mlops
+  770  git status
+  771  git status
+  772  git add .
+  773  git commit -m "minor  change"
+  774  git push
+  775  clear
+  776  git status
+  777  git checkout main
+  778  git origin
+  779  git --help
+  780  git remote -v
+  781  git remote set-url origin git@github.com:DataTalksClub/mlops-zoomcamp.git
+  782  git status
+  783  git remote -v
+  784  git status
+  785  git pull
+  786  git checkout homework-5
+  787  git status
+  788  git add .
+  789  git commit -m "arbitrary  change"
+  790  git push
+  791  nano ~/.ssh/config
+  792  git pull
+  793  git status
+  794  git reflog
+  795  git status
+  796  git reset --hard f9ad3ef
+  797  git status
+  798  git checkout main
+  799  git remote -v
+  800  git branch --show-current
+  801  git fetch origin
+  802  git merge origin/main
+  803  git branch --show-current
+  804  git status
+  805  get checkout -b week-6
+  806  git checkout -b week-6
+  807  pwd
+  808  mkdir 06-mine
+  809  cp -r 04-deployment/streaming 06-mine/code
+  810  pip install pipenv
+  811  pipenv install
+  812  pipenv --rm
+  813  rm -rf 06-mine
+  814  mkdir 06-mine
+  815  cp -r  04-deployment/streaming 06-mine
+  816  cd 06-mine
+  817  cd ..
+  818  rm -rf 06-mine
+  819  cp -r  04-deployment/streaming 06-mine/code
+  820  mkdir 06-mine
+  821  cp -r  04-deployment/streaming 06-mine/code
+  822  cd 06-mine/code
+  823  pipenv install
+  824  pipenv shell
+  825   . /Users/isaachurwitz/.local/share/virtualenvs/code-dfDY-B4u/bin/activate
+  826  pipenv --dev pytest
+  827  pipenv install --dev pytest
+  828  mkdir tests
+  829  rm -rf .vscode
+  830  pytest
+  831  cd tests
+  832  pytest
+  833  cd mlops
+  834  git remote set-url origin git@github.com:idh71/mlops-zoomcamp.git
+  835  cd 05-monitoring
+  836  git status
+  837  git push
+  838  git push --set-upstream origin homework-5
+  839  ls -al ~/.ssh
+  840  ssh mlops-zoomcamp-old
+  841  ssh mlops
+  842  ssh mlops-zoomcamp
+  843  cd mlops/cohorts/2023/06-best-practices/homework
+  844  ls
+  845  pipenv shell
+  846   . /Users/isaachurwitz/.local/share/virtualenvs/homework-mpJZCfne/bin/activate
+  847  pwd
+  848  pytest tests
+  849  clear
+  850  pytest tests
+  851  pytest tests
+  852  pytest tests
+  853  pytest tests
+  854  pytest tests
+  855  pytest tests
+  856  pytest tests
+  857  pytest tests
+  858  pytest tests
+  859  pytest tests
+  860  pytest tests
+  861  pytest tests
+  862  pytest tests
+  863  pytest tests
+  864  pytest tests
+  865  pytest tests
+  866  pytest tests
+  867  pytest tests
+  868  docker compose up -d
+  869  docker-compose up -d
+  870  docker-compose up -d
+  871  docker ps
+  872  docker ps
+  873  docker stop 6393aa5d9103
+  874  docker ps
+  875  docker rm 6393aa5d9103
+  876  docker-compose up -d
+  877  docker ps
+  878  docker-compose up -d
+  879  docker-compose down
+  880  docker-compose up
+  881  aws --version
+  882  which aws
+  883  docker-compose up -d
+  884  aws --endpoint-url=http://localhost:4566 s3 mb s3:nyc-duration
+  885  aws --endpoint-url=http:/localhost:4566 s3 mb s3://nyc-duration
+  886  aws --endpoint-url=http://localhost:4566 s3 mb s3://nyc-duration
+  887  aws configure
+  888  aws --endpoint-url=http://localhost:4566 s3 mb s3://nyc-duration
+  889  aws --endpoint-url=http://localhost:4566 s3 ls
+  890  export INPUT_FILE_PATTERN="s3://nyc-duration/in/{year:04d}-{month:02d}.parquet"\nexport OUTPUT_FILE_PATTERN="s3://nyc-duration/out/{year:04d}-{month:02d}.parquet"
+  891  echo $OUTPUT_FILE_PATTERN
+  892  echo $INPUT_FILE_PATTERN
+  893  export S3_ENDPOINT_URL=http://localhost:4566
+  894  python integration_test.py
+  895  python integration_test.py
+  896  python integration_test.py
+  897  echo $S3_ENDPOINT_URL
+  898  export S3_ENDPOINT_URL="http://localhost:4566"
+  899  python integration_test.py
+  900  python integration_test.py
+  901  python integration_test.py
+  902  python integration_test.py
+  903  python integration_test.py
+  904  python integration_test.py
+  905  aws --endpoint-url=http://localhost:4566 s3 ls
+  906  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/in/
+  907  python integration_test.py
+  908  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/in/
+  909  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/out//
+  910  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/out/
+  911  python integration_test.py
+  912  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/in/
+  913  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/
+  914  python integration_test.py
+  915  python integration_test.py
+  916  git status
+  917  git add .
+  918  git commit -m "homework"
+  919  git push
+  920  python integration_test.py
+  921  echo $INPUT_FILE_PATTERN
+  922  cd mlops/cohorts/2023/06-best-practices/homework
+  923  ls
+  924  pipenv shell
+  925   . /Users/isaachurwitz/.local/share/virtualenvs/homework-mpJZCfne/bin/activate
+  926  pwd
+  927  pytest tests
+  928  clear
+  929  pytest tests
+  930  pytest tests
+  931  pytest tests
+  932  pytest tests
+  933  pytest tests
+  934  pytest tests
+  935  pytest tests
+  936  pytest tests
+  937  pytest tests
+  938  pytest tests
+  939  pytest tests
+  940  pytest tests
+  941  pytest tests
+  942  pytest tests
+  943  pytest tests
+  944  pytest tests
+  945  pytest tests
+  946  pytest tests
+  947  docker compose up -d
+  948  docker-compose up -d
+  949  docker-compose up -d
+  950  docker ps
+  951  docker ps
+  952  docker stop 6393aa5d9103
+  953  docker ps
+  954  docker rm 6393aa5d9103
+  955  docker-compose up -d
+  956  docker ps
+  957  docker-compose up -d
+  958  docker-compose down
+  959  docker-compose up
+  960  aws --version
+  961  which aws
+  962  docker-compose up -d
+  963  aws --endpoint-url=http://localhost:4566 s3 mb s3:nyc-duration
+  964  aws --endpoint-url=http:/localhost:4566 s3 mb s3://nyc-duration
+  965  aws --endpoint-url=http://localhost:4566 s3 mb s3://nyc-duration
+  966  aws configure
+  967  aws --endpoint-url=http://localhost:4566 s3 mb s3://nyc-duration
+  968  aws --endpoint-url=http://localhost:4566 s3 ls
+  969  export INPUT_FILE_PATTERN="s3://nyc-duration/in/{year:04d}-{month:02d}.parquet"\nexport OUTPUT_FILE_PATTERN="s3://nyc-duration/out/{year:04d}-{month:02d}.parquet"
+  970  echo $OUTPUT_FILE_PATTERN
+  971  echo $INPUT_FILE_PATTERN
+  972  export S3_ENDPOINT_URL=http://localhost:4566
+  973  python integration_test.py
+  974  python integration_test.py
+  975  python integration_test.py
+  976  echo $S3_ENDPOINT_URL
+  977  export S3_ENDPOINT_URL="http://localhost:4566"
+  978  python integration_test.py
+  979  python integration_test.py
+  980  python integration_test.py
+  981  python integration_test.py
+  982  python integration_test.py
+  983  python integration_test.py
+  984  aws --endpoint-url=http://localhost:4566 s3 ls
+  985  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/in/
+  986  python integration_test.py
+  987  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/in/
+  988  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/out//
+  989  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/out/
+  990  python integration_test.py
+  991  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/in/
+  992  aws --endpoint-url=http://localhost:4566 s3 ls s3://nyc-duration/
+  993  python integration_test.py
+  994  python integration_test.py
+  995  git status
+  996  git add .
+  997  git commit -m "homework"
+  998  git push
+  999  python integration_test.py
+ 1000  echo $INPUT_FILE_PATTERN
+ 1001  ls ./models
+ 1002  ls ./models
+ 1003  conda activate my-env
+ 1004  conda activate my_env
+ 1005  chmod 400 ml-flow-key-pair.pem
+ 1006  chmod 400 ~/Downloads/ml-flow-key-pair.pem
+ 1007  ssh -i "~/Donloads/ml-flow-key-pair.pem" mlflow@ec2-34-227-160-154.compute-1.amazonaws.com
+ 1008  ssh -i "~/Downloads/ml-flow-key-pair.pem" mlflow@ec2-34-227-160-154.compute-1.amazonaws.com
+ 1009  ssh -i "ml-flow-key-pair.pem" mlflow@ec2-34-227-160-154.compute-1.amazonaws.com
+ 1010  ssh -i ml-flow-key-pair.pem mlflow@ec2-34-227-160-154.compute-1.amazonaws.com
+ 1011  chmod 400 ml-flow-key-pair.pem
+ 1012  ssh -i "ml-flow-key-pair.pem" ec2-user@ec2-34-227-160-154.compute-1.amazonaws.com
