@@ -56,7 +56,7 @@ This environment can be used to run the diamond_price_prediction.ipnb notebook a
 
 I have provided files for preprocessing the raw data (preprocess_data.py), tuning the hyperparameters of the xgb regression model (hpo.py), registering the best version of the model to the mlflow model registry (register_model.py) and running a workflow orchrestration with prefect (orchestration.py). I used a remote mlflow server on an ec2 instance for experiment tracking tracking and model registry and prefect cloud for workflow orchestration.
 
-## Experiment Tracking And Workflow Orchestration
+## Model Deployment
 
 1. From the main project folder `cd model-deployment`
 2. `pipenv install`
@@ -75,7 +75,6 @@ In another terminal (using the pipenv shell) you can test the prediction service
 5. `docker-compose up --build`
 6. In another terminal tab run `python evidently_metrics_calculation.py`.
 7. Open a browser to localhost:3000 to view the data metrics in grafana.  
-
 
 
 
