@@ -47,7 +47,41 @@ The main objective of this project is to build a machine learning model that can
 2. Activate the virtual environment `conda activate diaond_project`
 3. Install the required libraries: `pip install -r requirements.txt`
 
-this environment can be used to run the diamond_price_prediction.ipnb notebook and they files in the experiment-tracking-and orchestration folders.  Other sections of the repository can be run using a pipenv environment created from the provided pipfiles.
+This environment can be used to run the diamond_price_prediction.ipnb notebook and the files in the experiment-tracking-and orchestration folders.  Other sections of the repository can be run using a pipenv environment created from the provided pipfile.
+
+## Experiment Tracking And Workflow Orchestration
+
+1. From the main project folder `cd experiment-tracking-and-orchestration`
+2. `conda activate diaond_project`
+
+I have provided files for preprocessing the raw data (preprocess_data.py), tuning the hyperparameters of the xgb regression model (hpo.py), registering the best version of the model to the mlflow model registry (register_model.py) and running a workflow orchrestration with prefect (orchestration.py). I used a remote mlflow server on an ec2 instance for experiment tracking tracking and model registry and prefect cloud for workflow orchestration.
+
+## Experiment Tracking And Workflow Orchestration
+
+1. From the main project folder `cd model-deployment`
+2. `pipenv install`
+3.  Activate the pipenv environement `pipenv shell`
+4. Build the docker container from Dockerfile `docker build -t diamond-price-prediction-service:v1 .`
+5. Start the docker container `docker run -it --rm -p 9696:9696  diamond-price-prediction-service:v1`
+
+In another terminal (using the pipenv shell) you can test the prediction service by running `python test.py`.
+
+## Data Monitoring
+
+1. From the main project folder `cd diamond_data_monitoring`
+2. `conda create --name monitoring_env python=3.11`
+3. `conda activate monitoring_env`
+4. `pip install -r requirements.txt`
+5. `docker-compose up --build`
+6. In another terminal tab run `python evidently_metrics_calculation.py`.
+7. Open a browser to localhost:3000 to view the data metrics in grafana.  
+
+
+
+
+
+
+
 
 
 
